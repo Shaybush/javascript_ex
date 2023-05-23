@@ -23,9 +23,6 @@ To use the JavaScript Problem Solver, follow these steps: <br />
    npm install
    ```
    <br />
-   
-## exercises in java script 
-each problem should be  
 
 ## Usage 
 * ` npm test` - run all test in project 
