@@ -17,6 +17,13 @@ To use the JavaScript Problem Solver, follow these steps: <br />
    ```
    <br />
    
+2. Install the project dependencies by running the following command: <br />
+
+   ```sh
+   npm install
+   ```
+   <br />
+   
 ## exercises in java script 
 each problem should be  
 
