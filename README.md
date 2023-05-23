@@ -1,4 +1,4 @@
-# javascript_ex [![NPM version](https://img.shields.io/npm/v/copy.svg?style=flat)](https://www.npmjs.com/package/copy)
+# javascript_ex
 
 > solving problems using java script
 
