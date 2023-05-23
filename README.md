@@ -28,14 +28,7 @@ To use the JavaScript Problem Solver, follow these steps: <br />
 each problem should be  
 
 ## Usage 
-```sh
-npm test
-``` 
-<br />
-run all test in project 
+* ` npm test` - run all test in project 
 
-```sh
-npm test ex1
-``` 
-<br />
-run specific exercise
+
+* `npm test ex1` - run specific exercise
