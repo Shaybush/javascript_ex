@@ -1,4 +1,4 @@
 // # should return max number in array handle with empty array and null paramerter 
-const maxNumberInArr = (arr) =>{}
+const maxNumberInArr = (arr) => { }
 
 module.exports = maxNumberInArr;
